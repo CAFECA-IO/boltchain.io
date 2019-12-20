@@ -1,8 +1,5 @@
 <template>
   <div>
-    <!--
-    <link rel="stylesheet" id="bsf-linearicons-css" href="https://boltchain.io/wp-content/uploads/smile_fonts/linearicons/linearicons.css?ver=4.8.11" type="text/css" media="all">
-    -->
     <div class="fullwidth-container  "
       style="
  height: auto;background: url(/img/2019/03/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto; height: 100%">
