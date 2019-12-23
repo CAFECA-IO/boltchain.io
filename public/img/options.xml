@@ -234,19 +234,19 @@
   </option>
   <option>
     <id>swape_logo_image_url_light</id>
-    <value>https://boltchain.io/wp-content/uploads/2019/05/bolt_logo_5.png</value>
+    <value>/img/2019/05/bolt_logo_5.png</value>
   </option>
   <option>
     <id>swape_logo_retina_image_url_light</id>
-    <value>https://boltchain.io/wp-content/uploads/2019/05/bolt_logo_5.png</value>
+    <value>/img/2019/05/bolt_logo_5.png</value>
   </option>
   <option>
     <id>swape_logo_image_url_dark</id>
-    <value>https://boltchain.io/wp-content/uploads/2019/05/bolt_logo_6.png</value>
+    <value>/img/2019/05/bolt_logo_6.png</value>
   </option>
   <option>
     <id>swape_logo_retina_image_url_dark</id>
-    <value>https://boltchain.io/wp-content/uploads/2019/05/bolt_logo_6.png</value>
+    <value>/img/2019/05/bolt_logo_6.png</value>
   </option>
   <option>
     <id>swape_info_above_menu</id>

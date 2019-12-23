@@ -1341,7 +1341,7 @@
                       <div class="wpb_wrapper">
                         <div><p>{{ $t('main.contact.form.info') }}</p></div>
                         <div style="height: 10px;"></div>
-                        <b-form @submit="onSubmit">
+                        <b-form @submit="onSubmit" id="contact">
                           <b-form-group id="input-group-2">
                             <b-form-input
                               id="your-name"
@@ -1355,6 +1355,7 @@
                             <b-form-input
                               id="your-phone"
                               v-model="form.phone"
+                              required
                               :placeholder="$t('main.contact.form.phone')"
                             ></b-form-input>
                           </b-form-group>
@@ -1363,7 +1364,6 @@
                             <b-form-input
                               id="your-email"
                               v-model="form.email"
-                              required
                               :placeholder="$t('main.contact.form.email')"
                             ></b-form-input>
                           </b-form-group>
@@ -1377,7 +1377,6 @@
                               :placeholder="$t('main.contact.form.message')"
                             ></b-form-textarea>
                           </b-form-group>
-
                           <b-button pill type="submit" variant="primary" id="submit">{{ $t('main.contact.form.button') }}</b-button>
                         </b-form>
                       </div>
@@ -1408,10 +1407,10 @@
       }
     },
     methods: {
-      onSubmit() {
-      // onSubmit(evt) {
-        // evt.preventDefault()
-        // alert(JSON.stringify(this.form))
+      onSubmit(e) {
+        e.preventDefault();
+        this.form.message = this.form.message.replace(/\n/g,"%0D%0A");
+        window.open(`mailto:service@boltchain.io?subject=企業詢問&body=name: ${this.form.name}%0D%0Aphone: ${this.form.phone}%0D%0Aemail: ${this.form.email}%0D%0Amessage: %0D%0A${this.form.message}`, "_blank");
       },
       scrollToOneAnchor(refName) {
         var element = this.$refs[refName];

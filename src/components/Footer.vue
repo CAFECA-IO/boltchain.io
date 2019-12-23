@@ -2,7 +2,7 @@
   <footer>
     <div class="footer-bar">
       <div class="text-center">
-        <img width="150" height="36" src="https://boltchain.io/wp-content/uploads/2019/05/bolt_logo_7.png" class="footer-logo">
+        <img width="150" height="36" src="/img/2019/05/bolt_logo_7.png" class="footer-logo">
         <hr>
         <p style="text-align: center; font-size: 13px;">
           <span style="color: #999999;">Copyright © TideiSun. All rights reserved.
