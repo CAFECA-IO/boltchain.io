@@ -94,72 +94,36 @@ export default {
     team: {
       title: '團隊介紹',
       member1: {
-        image: '/img/2019/08/hungchi.png',
-        name: '李泓其 Hungchi',
-        title: '總經理兼技術總監',
-        description: '畢業於台大資工所並取得博士學位，研究領域為人機互動與人工智慧應用。亦曾創辦軟體開發公司，兼具學術研究、系統架構、專案管理與開發等實務經驗。'
-      },
-      member2: {
         image: '/img/2019/08/luphia.png',
         name: '張智崴 Luphia',
         title: '首席系統架構師',
         description: '畢業於成功大學，擁有超過十年分散式運算系統研發經驗。曾負責規劃阿曼教育部高等教育系統、中國軟體園區雲計算系統、台灣工業基礎計畫等大型軟體運算平台架構。'
       },
-      member3: {
+      member2: {
         image: '/img/2019/08/felix.png',
         name: '湯翔帆 Felix',
         title: '資深產品經理',
         description: '畢業於清華大學工業工程與工程管理學系，擅長市場需求分析與企業服務設計。有八年產品管理經驗，曾分別於全球百大企業、互聯網新創公司負責產品規劃與專案管理。'
       },
-      member4: {
-        image: '/img/2019/08/angus.png',
-        name: '王智源 Angus',
-        title: '市場開發經理',
-        description: '擁有資訊領域二十年資歷，擅長媒體與互聯網的應用創新。曾在電視台、網路影音平台有大型企業產品設計和開發經驗，帶領過多家新創公司之產品開發與技術決策。'
-      },
-      member5: {
+      member3: {
         image: '/img/2019/08/kurt.png',
         name: '潘家和 Kurt',
         title: '資深介面設計師',
         description: '曾任職於全球最大廣告傳播集團 WPP 旗下廣告公司，擁有十年以上設計經驗。參與過多項大型設計案，目前負責主導 Boltchain 風格設計與 UI 整體規劃。'
       },
-      member6: {
-        image: '/img/2019/08/louis.png',
-        name: '廖政豪 Louis',
-        title: '資深開發測試工程師',
-        description: '曾任職於 HTC 及 KKBOX 集團，擁有十年以上軟體品質管理與測試開發經驗。專注於軟體品質控管與測試方法規劃，負責管理 Boltchain 之測試架構。'
-      },
-      member7: {
-        image: '/img/2019/08/ming.png',
-        name: '許祐銘 Ming',
-        title: '區塊鏈工程師',
-        description: '擁有數年軟體全端開發、兩年區塊鏈智能合約設計的實務經驗，現在負責 Boltchain 智能合約的架構設計與開發。'
-      },
-      member8: {
-        image: '/img/2019/08/derek.png',
-        name: '邱坤煒 Derek',
-        title: '區塊鏈工程師',
-        description: '擁有數年軟體全端開發經歷，並專長於 Mobile 應用。近年投身於研究區塊鏈應用，負責智能合約的功能設計與開發。'
-      },
-      member9: {
-        image: '/img/2019/08/joe.png',
-        name: '許銘洲 Joe',
-        title: '資深後端工程師',
-        description: '擅長運用 Golang、Java 進行大型專案後端系統設計。負責 Boltchain 系統維護與自動化、視覺化監控系統設計。'
-      },
-      member10: {
+      member4: {
         image: '/img/2019/08/wayne.png',
         name: '李廷威 Wayne',
         title: '後端工程師',
         description: '擁有三年後端開發經驗，曾任職台灣知名輸入法公司，以 C#、C++ 開發自然輸入法。現負責Boltchain 平台服務所需 API 開發。'
       },
-      member11: {
+      member5: {
         image: '/img/2019/08/kais.png',
         name: '林延諭 Kais',
         title: '後端工程師',
         description: '負責系統後端開發與部署，學生時期即開始關注各開源社群的後端開發者，多次舉辦Javascript 社群聚會，曾任 SITCON 年會講師。'
       },
-      member12: {
+      member6: {
         image: '/img/2019/08/paul.png',
         name: '黃晟恩 Paul',
         title: '前端工程師',
