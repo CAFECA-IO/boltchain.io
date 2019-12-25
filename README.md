@@ -1,5 +1,11 @@
 # boltchain.io
 
+## environment
+
+```
+node: v10.16.3
+```
+
 ## Project setup
 ```
 yarn install
