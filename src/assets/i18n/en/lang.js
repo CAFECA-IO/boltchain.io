@@ -67,28 +67,28 @@ export default {
     news: {
       title: '最新消息',
       post1: {
-        title: 'TIDEiSun CEO Robin Xie: Boltchain, Beyond Public Blockchain',
-        time: '23 APR 2019',
+        title: 'What is "Boltchain 閃電鏈"？',
+        time: '20 DEC 2019',
         image: '/img/2019/05/news_05-1.jpg',
-        link: 'https://tideisun.com/2019/04/tideisun-ceo-robin-xie-bolt-beyond-public-blockchain-%e2%80%a8/'
+        link: 'https://medium.com/boltchain/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%96%83%E9%9B%BB%E9%8F%88-boltchain-77244024bbef'
       },
       post2: {
+        title: 'Boltchain and Its Pioneering Role in Decentralizing the Global Business',
+        time: '23 AUG 2019',
+        image: '/img/2019/08/news_08-1.jpg',
+        link: 'https://medium.com/tideisun/boltchain-and-its-pioneering-role-in-decentralizing-the-global-business-9a7465634455'
+     },
+      post3: {
         title: '維港區塊鏈來台舉辦投資沙龍，高度評價泰德陽光集團 Boltchain 技術',
         time: '25 MAR 2019',
         image: '/img/2019/05/news_04-1.jpg',
         link: 'https://suntv.io/2019/03/25/%E7%B6%AD%E6%B8%AF%E5%8D%80%E5%A1%8A%E9%8F%88%E4%BE%86%E5%8F%B0%E8%88%89%E8%BE%A6%E6%8A%95%E8%B3%87%E6%B2%99%E9%BE%8D-%E7%9B%B8%E4%B8%AD%E6%B3%B0%E5%BE%B7%E9%99%BD%E5%85%89%E9%9B%86%E5%9C%98bolt/?fbclid=IwAR0WytR-FGdWLfyOodlHFMF3KI5SPmbfyUSFmfvUgwo9bzNTsndkPf1JLCw'
       },
-      post3: {
+      post4: {
         title: '區塊鏈即時支付系統 號稱做到秒支秒付',
         time: '07 DEC 2018',
         image: '/img/2019/05/news_03-1.jpg',
         link: 'https://www.indosatu.net/video-news/watch/6R3Nfq0NBSE/%E5%8D%B3%E6%99%82%E5%BD%B1%E9%9F%B3-%E5%8D%80%E5%A1%8A%E9%8F%88%E5%8D%B3%E6%99%82%E6%94%AF%E4%BB%98%E7%B3%BB%E7%B5%B1-%E8%99%9F%E7%A8%B1%E5%81%9A%E5%88%B0%E7%A7%92%E6%94%AF%E7%A7%92%E4%BB%98/'
-      },
-      post4: {
-        title: 'Taipei Ethereum Meetup: Sharding, Scaling and Solutions',
-        time: '21 MAR 2018',
-        image: '/img/2018/06/news_03.jpg',
-        link: 'https://tideisun.com/2018/05/taipei-ethereum-meetup-sharding-scaling-and-solutions/'
       }
     },
     team: {

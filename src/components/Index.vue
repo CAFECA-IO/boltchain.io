@@ -1,10 +1,10 @@
 <template>
   <div class="ls-slide-effects">
     <div class="fullwidth-container"
-      style="height: 1042px; background: url(/img/2019/03/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto;">
+      style="height: 1042px; background: url(/img/homepage/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto;">
       <div class="container center" style="padding:150px 15px;">
         <div class="pageTitle" style="text-align:center;">
-          <img :src="$t('main.logo')" class="slide1-logo" alt="" />
+          <img :src="$t('main.logo')" class="slide1-logo" alt="Boltchain_logo_white" />
           <h1 class="page_title"
             style="color: #ffffff; font-size: 52px; font-family: 'Roboto', 'Arial', 'sans-serif', sans-serif;font-weight: 500;margin-top: 20px;">
             {{ $t('main.title') }}</h1>
@@ -608,7 +608,7 @@
                     data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                   <div class="wpb_text_column wpb_content_element ">
                     <div class="wpb_wrapper">
-                      <p><span style="color: #808080; font-size: 12px;">{{ $t('main.news.pos2t.time') }}</span></p>
+                      <p><span style="color: #808080; font-size: 12px;">{{ $t('main.news.post2.time') }}</span></p>
                     </div>
                   </div>
                   <div class="ult-spacer spacer-5df9c02b0e51f" data-id="5df9c02b0e51f" data-height="10"
@@ -1064,7 +1064,7 @@
                             <link rel="stylesheet"
                               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                             <a :href="$t('main.contact.link.facebook')" class="fa fa-facebook fa-footer" target="_blank"></a> 
-                            <a :href="$t('main.contact.link.twitter')" class="fa fa-twitter fa-footer" target="_blank"></a> 
+                            <a :href="$t('main.contact.link.github')" class="fa fa-github-alt fa-footer" target="_blank"></a> 
                             <a :href="$t('main.contact.link.medium')" class="fa fa-medium fa-footer" target="_blank"></a></div>
                         </div>
                         <div class="ult-spacer spacer-5df8d2bd73c8b" data-id="5df8d2bd73c8b" data-height="30"
@@ -1168,7 +1168,7 @@
   padding-top: 250px;
 }
 .slide1-logo {
-  width: 39.21%;
+  width: 21.21%;
 }
 .aio-icon i {
   line-height: inherit;
