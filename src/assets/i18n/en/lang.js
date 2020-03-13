@@ -8,19 +8,20 @@ export default {
     aboutLink5: 'News',
     aboutLink6: 'Team',
     aboutLink7: 'Contact Us',
+    solution: 'Solution',
     product: 'Product',
-    trust: 'Bolt Trust – Product Cert',
+    trust: 'Product Certification',
+    currency: 'Digital Currency Issuance',
     technology: 'Technology',
     faq: 'FAQ'
   },
   main: {
-    logo: '/img/bolt_logo_5.ef83a7a0.png',
-    title: '實現資產上鏈移轉的混合型公鏈技術',
-    description: 'Blockchains traversal can be as quick as a bolt',
+    logo: '/img/2019/05/bolt_logo_7.png',
+    title: 'Hybrid-chain technology for rapid asset transfer',
+    description: 'Bringing trust value to enterprises with blockchain',
     about: {
-      title: '什麼是 Boltchain？',
-      description: `Boltchain
-      是以和主流公鏈並行的跨鏈模式，所建立的可以受信任且無速度限制的區塊鏈運作架構。<br> 目前已深度整合自身與比特幣、以太坊，實現區塊鏈跨界、跨領域的極速應用體驗。`
+      title: 'What is Boltchain？',
+      description: `Boltchain is a hybrid blockchain architecture that can be trusted and no speed limit.<br> At present, it has deeply integrated itself with Bitcoin and Ethereum<br> to achieve a fast application experience of cross-chain systems.`
     },
     why: {
       title: '為什麼要選擇 Boltchain？',
@@ -39,7 +40,7 @@ export default {
     },
     case: {
       title: '應用案例',
-      title1: 'Bolt Trust 商品溯源服務',
+      title1: '商品認證追溯方案',
       description1: `您的大量商品和交易數據，可以高速、低成本上到多條公鏈上存證，透過商品溯源工具進行追蹤。
       <br><br>
       在商品生產與銷售過程中，透過授權密鑰來控制寫入者身份，能減少供應鏈欺瞞現象並確保品牌商可有效地追蹤商品流向。

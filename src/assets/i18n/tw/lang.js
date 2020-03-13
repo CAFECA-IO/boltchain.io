@@ -1,22 +1,24 @@
 export default {
   nav: {
-    about: '關於 Boltchain',
+    about: '關於閃電鏈',
     aboutLink1: '什麼是 Boltchain',
     aboutLink2: '為什麼選擇 Boltchain',
-    aboutLink3: '案例',
+    aboutLink3: '應用案例',
     aboutLink4: '產品路線圖',
     aboutLink5: '最新消息',
     aboutLink6: '團隊介紹',
     aboutLink7: '聯絡我們',
+    solution: '解決方案',
     product: '產品服務',
-    trust: 'Bolt Trust 商品認證追溯',
+    trust: '商品認證追溯',
+    currency: '數字貨幣發行',
     technology: '核心技術',
     faq: '常見問題'
   },
   main: {
     logo: '/img/2019/05/bolt_logo_7.png',
     title: '實現資產上鏈移轉的混合型公鏈技術',
-    description: 'Blockchains traversal can be as quick as a bolt',
+    description: '以區塊鏈提升企業信任價值',
     about: {
       title: '什麼是 Boltchain？',
       description: `Boltchain
@@ -39,7 +41,7 @@ export default {
     },
     case: {
       title: '應用案例',
-      title1: 'Bolt Trust 商品溯源服務',
+      title1: '商品認證追溯方案',
       description1: `您的大量商品和交易數據，可以高速、低成本上到多條公鏈上存證，透過商品溯源工具進行追蹤。
       <br><br>
       在商品生產與銷售過程中，透過授權密鑰來控制寫入者身份，能減少供應鏈欺瞞現象並確保品牌商可有效地追蹤商品流向。
@@ -171,7 +173,7 @@ export default {
       description3: '友善的區塊鏈瀏覽介面與存證證書，幫助消費者理解商品溯源履歷',
     },
     block3: {
-      title: 'Bolt Trust 服務導入流程',
+      title: '追溯服務導入流程',
       image: './../img/2019/08/boltchain_graphic_2-1.png',
     },
     block4: {
@@ -187,6 +189,65 @@ export default {
       li3: '自動查驗商品發佈者是否為授權金鑰地址',
       li4: '深度追溯查看商品產銷環節資訊',
       li5: '確認此為真品或贗品！',
+    },
+    block6: {
+      title: '企業諮詢',
+      contactTitle: '聯絡資訊',
+      address: '台北市 松山區 民生東路三段 156號9樓',
+      phone: '+886 2-2700-1979',
+      email: 'service@boltchain.io',
+      link: {
+        facebook: 'https://www.facebook.com/boltchain.io/',
+        github: 'https://github.com/BOLT-Protocol',
+        medium: 'https://medium.com/boltchain'
+      },
+      form: {
+        info: '若您希望與我們進一步接觸，請聯繫我們！',
+        name: '稱呼*',
+        phone: '聯絡電話*',
+        email: 'Email',
+        message: '訊息*',
+        button: '發送訊息',
+      }
+    }
+  },
+  currency: {
+    title: 'Bolt Currency 數字貨幣發行',
+    block1: {
+      title: '發行數字貨幣 - 應用閃電鑄幣(Bolt Token)輕鬆實現代幣經濟',
+      image1: './../img/2020/boltcurrency/boltcurrency_logo.png',
+      image2: './../img/2020/boltcurrency/currency_flow_tc.png',
+    },
+    block2: {
+      title: 'Bolt Token 為你帶來靈活用途，打造代幣經濟更容易',
+      image1: './../img/2020/boltcurrency/boltcurrency_01.png',
+      subtitle1: '虛擬點數',
+      description1: '用 Bolt Token 實現點數經濟，點數之間可自由交換，透過區塊鏈錢包交易。',
+      image2: './../img/2020/boltcurrency/boltcurrency_02.png',
+      subtitle2: '資產活化',
+      description2: '將你的商品或資產代幣化，以智能合約管理，滿足眾籌或切割販售等不同商業需要。',
+      image3: './../img/2020/boltcurrency/boltcurrency_03.png',
+      subtitle3: '連結區塊鏈',
+      description3: '使用 Bolt Token 即包含發行、交易、支付都連結區塊鏈，輕鬆將你的應用與區塊鏈整合。',
+    },
+    block3: {
+      title: 'Bolt Currency 服務導入流程',
+      image: './../img/2019/08/boltchain_graphic_2-1.png',
+    },
+    block4: {
+      title: '貨幣發行合約',
+      image: './../img/2019/08/devices_mockups-free-1.png',
+    },
+    block5: {
+      title: '代幣發行管理步驟',
+      image: './../img/2020/boltcurrency/currency_step.png',
+      subtitle1: '透過 Boltchain 服務平台的 Currency 服務，只要 5 步驟：',
+      li1: '選擇新發行或增發',
+      li2: '指定你的代幣名稱、發行數量、圖片',
+      li3: '確認檢查',
+      li4: '支付發幣費用',
+      li5: '等待代幣生成',
+      subtitle2: '即可開始透過內建錢包管理你的閃電鑄幣 (Bolt Token)！',
     },
     block6: {
       title: '企業諮詢',

@@ -21,8 +21,9 @@
             <b-dropdown-item :to="{ path: '/', hash: '#contact' }" @click.native="scrollFix('#contact')">{{ $t('nav.aboutLink7') }}</b-dropdown-item>
           </b-nav-item-dropdown>
 
-          <b-nav-item-dropdown :text="$t('nav.product')" class="nav-item" right>
+          <b-nav-item-dropdown :text="$t('nav.solution')" class="nav-item" right>
             <b-dropdown-item :to="{ path: 'bolt-trust' }" @click.native="scrollToTop()">{{ $t('nav.trust') }}</b-dropdown-item>
+            <b-dropdown-item :to="{ path: 'bolt-currency' }" @click.native="scrollToTop()">{{ $t('nav.currency') }}</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item class="nav-item nav-single-item"><router-link :to="{ path: 'technology' }" @click.native="scrollToTop()">{{ $t('nav.technology') }}</router-link></b-nav-item>
 

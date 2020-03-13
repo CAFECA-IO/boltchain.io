@@ -2,7 +2,7 @@
   <div class="ls-slide-effects">
     <div class="fullwidth-container"
       style="height: 1042px; background: url(/img/homepage/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto;">
-      <div class="container center" style="padding:150px 15px;">
+      <div class="container center" style="padding:10px 15px;">
         <div class="pageTitle" style="text-align:center;">
           <img :src="$t('main.logo')" class="slide1-logo" alt="Boltchain_logo_white" />
           <h1 class="page_title"

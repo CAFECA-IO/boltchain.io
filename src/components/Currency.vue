@@ -7,7 +7,7 @@
         <div class="pageTitle" style="text-align:center;">
           <h1 class="page_title"
             style="color: #ffffff; font-size: 52px; font-family: 'Roboto', 'Arial', 'sans-serif', sans-serif;font-weight: 500;margin-top: 20px;">
-            {{ $t('trust.title') }}</h1>
+            {{ $t('currency.title') }}</h1>
         </div>
       </div>
     </div>
@@ -22,11 +22,11 @@
                   <div class="wpb_single_image wpb_content_element vc_align_center">
                     <figure class="wpb_wrapper vc_figure text-center title-logo">
                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="61"
-                          :src="$t('trust.block1.image1')" data-lazy-type="image"
-                          :data-src="$t('trust.block1.image1')"
+                          :src="$t('currency.block1.image1')" data-lazy-type="image"
+                          :data-src="$t('currency.block1.image1')"
                           class="vc_single_image-img attachment-medium lazy-loaded" alt=""
                           deluminate_imagetype="gif"><noscript><img width="300" height="61"
-                            :src="$t('trust.block1.image1')"
+                            :src="$t('currency.block1.image1')"
                             class="vc_single_image-img attachment-medium" alt="" /></noscript></div>
                     </figure>
                   </div>
@@ -38,18 +38,18 @@
                   <div class="ult-spacer spacer-5df8d2bd6fead" data-id="5df8d2bd6fead" data-height="10"
                     data-height-mobile="10" data-height-tab="10" data-height-tab-portrait=""
                     data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('trust.block1.title') }}
+                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('currency.block1.title') }}
                   </h3>
                   <div style="height: 80px"></div>
                   <div class="wpb_single_image wpb_content_element vc_align_center">
                     <figure class="wpb_wrapper vc_figure text-center">
                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="900"
-                          :src="$t('trust.block1.image2')"
+                          :src="$t('currency.block1.image2')"
                           data-lazy-type="image"
-                          :data-src="$t('trust.block1.image2')"
+                          :data-src="$t('currency.block1.image2')"
                           class="vc_single_image-img attachment-full lazy-loaded" id="img1" alt=""
                           deluminate_imagetype="gif"><noscript><img width="900"
-                            :src="$t('trust.block1.image2')"
+                            :src="$t('currency.block1.image2')"
                             class="vc_single_image-img attachment-full" id="img1" alt="" /></noscript></div>
                     </figure>
                   </div>
@@ -69,7 +69,7 @@
                 <div class="vc_column-inner ">
                   <div class="wpb_wrapper">
                     <div style="height: 120px"></div>
-                    <h3 style="color: #ffffff;text-align: center" class="custom_header">{{ $t('trust.block2.title') }}</h3>
+                    <h3 style="color: #ffffff;text-align: center" class="custom_header">{{ $t('currency.block2.title') }}</h3>
                     <div class="wpb_text_column wpb_content_element ">
                       <div class="wpb_wrapper">
                         <p style="text-align: center; margin-bottom: 45px;"><span style="color: #ffffff;">__</span></p>
@@ -90,11 +90,11 @@
                                       <div class="align-icon" style="text-align:center;">
                                         <div class="aio-icon-img " style="font-size:80px;display:inline-block;"> <img
                                             class="img-icon lazy-loaded" alt="null"
-                                            :src="$t('trust.block2.image1')"
+                                            :src="$t('currency.block2.image1')"
                                             data-lazy-type="image"
-                                            :data-src="$t('trust.block2.image1')"
+                                            :data-src="$t('currency.block2.image1')"
                                             deluminate_imagetype="gif"><noscript><img class="img-icon" alt="null"
-                                              :src="$t('trust.block2.image1')" /></noscript>
+                                              :src="$t('currency.block2.image1')" /></noscript>
                                         </div>
                                       </div>
                                     </div>
@@ -104,7 +104,7 @@
                                       <h3 class="aio-icon-title ult-responsive"
                                         data-ultimate-target="#Info-box-wrap-7174 .aio-icon-title"
                                         data-responsive-json-new="{font-size:desktop:22px;,line-height:}"
-                                        style="font-weight:bold;color:#ffffff;">{{ $t('trust.block2.subtitle1') }}</h3>
+                                        style="font-weight:bold;color:#ffffff;">{{ $t('currency.block2.subtitle1') }}</h3>
                                     </div>
                                   </div>
                                   <div class="aio-icon-description ult-responsive"
@@ -112,7 +112,7 @@
                                     data-responsive-json-new="{font-size:desktop:16px;,line-height:}"
                                     style="color:#ffffff;">
                                     <p></p>
-                                    <p style="text-align: center;">{{ $t('trust.block2.description1') }}</p>
+                                    <p style="text-align: center;">{{ $t('currency.block2.description1') }}</p>
                                     <p></p>
                                   </div>
                                 </div>
@@ -130,11 +130,11 @@
                                       <div class="align-icon" style="text-align:center;">
                                         <div class="aio-icon-img " style="font-size:80px;display:inline-block;"> <img
                                             class="img-icon lazy-loaded" alt="null"
-                                            :src="$t('trust.block2.image2')"
+                                            :src="$t('currency.block2.image2')"
                                             data-lazy-type="image"
-                                            :data-src="$t('trust.block2.image2')"
+                                            :data-src="$t('currency.block2.image2')"
                                             deluminate_imagetype="gif"><noscript><img class="img-icon" alt="null"
-                                              :src="$t('trust.block2.image2')" /></noscript>
+                                              :src="$t('currency.block2.image2')" /></noscript>
                                         </div>
                                       </div>
                                     </div>
@@ -144,7 +144,7 @@
                                       <h3 class="aio-icon-title ult-responsive"
                                         data-ultimate-target="#Info-box-wrap-1875 .aio-icon-title"
                                         data-responsive-json-new="{font-size:desktop:22px;,line-height:}"
-                                        style="font-weight:bold;color:#ffffff;">{{ $t('trust.block2.subtitle2') }}</h3>
+                                        style="font-weight:bold;color:#ffffff;">{{ $t('currency.block2.subtitle2') }}</h3>
                                     </div>
                                   </div>
                                   <div class="aio-icon-description ult-responsive"
@@ -152,7 +152,7 @@
                                     data-responsive-json-new="{font-size:desktop:16px;,line-height:}"
                                     style="color:#ffffff;">
                                     <p></p>
-                                    <p style="text-align: center;">{{ $t('trust.block2.description2') }}</p>
+                                    <p style="text-align: center;">{{ $t('currency.block2.description2') }}</p>
                                     <p></p>
                                   </div>
                                 </div>
@@ -170,11 +170,11 @@
                                       <div class="align-icon" style="text-align:center;">
                                         <div class="aio-icon-img " style="font-size:80px;display:inline-block;"> <img
                                             class="img-icon lazy-loaded" alt="null"
-                                            :src="$t('trust.block2.image3')"
+                                            :src="$t('currency.block2.image3')"
                                             data-lazy-type="image"
-                                            :data-src="$t('trust.block2.image3')"
+                                            :data-src="$t('currency.block2.image3')"
                                             deluminate_imagetype="gif"><noscript><img class="img-icon" alt="null"
-                                              :src="$t('trust.block2.image3')" /></noscript>
+                                              :src="$t('currency.block2.image3')" /></noscript>
                                         </div>
                                       </div>
                                     </div>
@@ -184,7 +184,7 @@
                                       <h3 class="aio-icon-title ult-responsive"
                                         data-ultimate-target="#Info-box-wrap-2341 .aio-icon-title"
                                         data-responsive-json-new="{font-size:desktop:22px;,line-height:}"
-                                        style="font-weight:bold;color:#ffffff;">{{ $t('trust.block2.subtitle3') }}</h3>
+                                        style="font-weight:bold;color:#ffffff;">{{ $t('currency.block2.subtitle3') }}</h3>
                                     </div>
                                   </div>
                                   <div class="aio-icon-description ult-responsive"
@@ -192,7 +192,7 @@
                                     data-responsive-json-new="{font-size:desktop:16px;,line-height:}"
                                     style="color:#ffffff;">
                                     <p></p>
-                                    <p style="text-align: center;">{{ $t('trust.block2.description3') }}</p>
+                                    <p style="text-align: center;">{{ $t('currency.block2.description3') }}</p>
                                     <p></p>
                                   </div>
                                 </div>
@@ -208,12 +208,12 @@
               </div>
             </div>
           </div>
-          <div class="row">
+<!--           <div class="row">
             <div class="wpb_column vc_column_container col-lg-12">
               <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                   <div style="height: 120px;"></div>
-                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('trust.block3.title') }}</h3>
+                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('currency.block3.title') }}</h3>
                   <div class="ult-spacer spacer-5df8d2bd71859" data-id="5df8d2bd71859" data-height="20"
                     data-height-mobile="10" data-height-tab="" data-height-tab-portrait=""
                     data-height-mobile-landscape="10" style="clear:both;display:block;"></div>
@@ -228,12 +228,12 @@
                   <div class="text-center">
                     <figure class="wpb_wrapper vc_figure text-center">
                       <div class="vc_single_image-wrapper   vc_box_border_grey " id="img2"><img width="1000"
-                          :src="$t('trust.block3.image')"
+                          :src="$t('currency.block3.image')"
                           data-lazy-type="image"
-                          :data-src="$t('trust.block3.image')"
+                          :data-src="$t('currency.block3.image')"
                           class="vc_single_image-img attachment-full lazy-loaded" id="img2" alt=""
                           deluminate_imagetype="gif"><noscript><img width="1000"
-                            :src="$t('trust.block3.image')"
+                            :src="$t('currency.block3.image')"
                             class="vc_single_image-img attachment-full" alt="" /></noscript></div>
                     </figure>
                   </div>
@@ -243,8 +243,8 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row">
+          </div> -->
+<!--           <div class="row">
             <div class="wpb_column vc_column_container col-lg-12">
               <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
@@ -253,7 +253,7 @@
                     <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color:#f2f2f2;"
                         class="vc_sep_line"></span></span></div>
                   <div style="height: 72px;"></div>
-                  <h3 style="color: #000000;text-align: center;" class="custom_header">{{ $t('trust.block4.title') }}</h3>
+                  <h3 style="color: #000000;text-align: center;" class="custom_header">{{ $t('currency.block4.title') }}</h3>
                   <div class="ult-spacer spacer-5df8d2bd7212f" data-id="5df8d2bd7212f" data-height="20"
                     data-height-mobile="10" data-height-tab="" data-height-tab-portrait=""
                     data-height-mobile-landscape="10" style="clear:both;display:block;"></div>
@@ -268,12 +268,12 @@
                   <div class="text-center">
                     <figure class="wpb_wrapper vc_figure">
                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000"
-                          :src="$t('trust.block4.image')"
+                          :src="$t('currency.block4.image')"
                           data-lazy-type="image"
-                          :data-src="$t('trust.block4.image')"
+                          :data-src="$t('currency.block4.image')"
                           class="vc_single_image-img attachment-full lazy-loaded" id="img3" alt=""
                           deluminate_imagetype="gif"><noscript><img width="1000"
-                            :src="$t('trust.block4.image')"
+                            :src="$t('currency.block4.image')"
                             class="vc_single_image-img attachment-full" id="img3" alt="" /></noscript></div>
                     </figure>
                   </div>
@@ -283,7 +283,8 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
+          <!-- 代幣發行步驟 -->
           <div class="row">
             <div class="wpb_column vc_column_container col-lg-12">
               <div class="vc_column-inner ">
@@ -293,7 +294,7 @@
                     <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color:#f2f2f2;"
                         class="vc_sep_line"></span></span></div>
                   <div style="height: 72px;"></div>
-                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('trust.block5.title') }}</h3>
+                  <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('currency.block5.title') }}</h3>
                   <div class="ult-spacer spacer-5df8d2bd72846" data-id="5df8d2bd72846" data-height="20"
                     data-height-mobile="10" data-height-tab="" data-height-tab-portrait=""
                     data-height-mobile-landscape="10" style="clear:both;display:block;"></div>
@@ -308,12 +309,12 @@
                         <div class="vc_column-inner ">
                           <div class="wpb_wrapper">
                             <div class="wpb_single_image wpb_content_element vc_align_right">
-                              <div class="vc_single_image-wrapper   vc_box_border_grey"><img style="float: right;" width="398" height="400"
-                                  :src="$t('trust.block5.image')" data-lazy-type="image"
-                                  :data-src="$t('trust.block5.image')"
+                              <div class="vc_single_image-wrapper   vc_box_border_grey"><img style="float: right;" width="420" height="280"
+                                  :src="$t('currency.block5.image')" data-lazy-type="image"
+                                  :data-src="$t('currency.block5.image')"
                                   class="vc_single_image-img attachment-full lazy-loaded" alt=""
                                   deluminate_imagetype="gif"><noscript><img width="398" height="400"
-                                    :src="$t('trust.block5.image')"
+                                    :src="$t('currency.block5.image')"
                                     class="vc_single_image-img attachment-full" alt="" /></noscript></div>
                             </div>
                           </div>
@@ -322,22 +323,26 @@
                       <div class="wpb_column vc_column_container col-lg-6">
                         <div class="vc_column-inner ">
                           <div class="wpb_wrapper">
-                            <div style="height: 60px"></div>
                             <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
-                                <p style="line-height: 1.2; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.subtitle') }}</p>
+                                <p style="line-height: 1.2; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.subtitle1') }}</p>
                               </div>
                             </div>
                             <div style="height: 4px;"></div>
                             <div class="wpb_text_column wpb_content_element">
                               <div class="wpb_wrapper identification-step">
                                 <ol>
-                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.li1') }}</li>
-                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.li2') }}</li>
-                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.li3') }}</li>
-                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.li4') }}</li>
-                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('trust.block5.li5') }}</li>
+                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.li1') }}</li>
+                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.li2') }}</li>
+                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.li3') }}</li>
+                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.li4') }}</li>
+                                  <li style="line-height: 1.5; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.li5') }}</li>
                                 </ol>
+                              </div>
+                            </div>
+                            <div class="wpb_text_column wpb_content_element ">
+                              <div class="wpb_wrapper">
+                                <p style="line-height: 1.2; color: #000000; font-size: 20px; font-weight: 400;">{{ $t('currency.block5.subtitle2') }}</p>
                               </div>
                             </div>
                           </div>
@@ -360,7 +365,7 @@
                     <div class="ult-spacer spacer-5df8d2bd7363a" data-id="5df8d2bd7363a" data-height="120"
                       data-height-mobile="40" data-height-tab="" data-height-tab-portrait=""
                       data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
-                    <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('trust.block6.title') }}</h3>
+                    <h3 style="color: #000000;text-align: center" class="custom_header">{{ $t('currency.block6.title') }}</h3>
                     <div class="wpb_text_column wpb_content_element ">
                       <div class="wpb_wrapper">
                         <p style="text-align: center; margin-top: 10px; margin-bottom: 5px; color: #adb0b8;">__</p>
@@ -372,24 +377,24 @@
                         <div class="wpb_column vc_column_container col-lg-6">
                           <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
-                              <h1 style="font-size: 18px;color: #066EB7;text-align: left" class="custom_header">{{ $t('trust.block6.contactTitle') }}
+                              <h1 style="font-size: 18px;color: #066EB7;text-align: left" class="custom_header">{{ $t('currency.block6.contactTitle') }}
                               </h1>
                               <div class="ult-spacer spacer-5df8d2bd739f7" data-id="5df8d2bd739f7" data-height="10"
                                 data-height-mobile="10" data-height-tab="10" data-height-tab-portrait=""
                                 data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                               <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                  <p>{{ $t('trust.block6.address') }}</p>
+                                  <p>{{ $t('currency.block6.address') }}</p>
                                 </div>
                               </div>
                               <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                  <p><span style="color: #67656f;">{{ $t('trust.block6.phone') }}</span></p>
+                                  <p><span style="color: #67656f;">{{ $t('currency.block6.phone') }}</span></p>
                                 </div>
                               </div>
                               <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                  <p>{{ $t('trust.block6.email') }}</p>
+                                  <p>{{ $t('currency.block6.email') }}</p>
                                 </div>
                               </div>
                               <div
@@ -402,9 +407,9 @@
                                 <div class="wpb_wrapper">
                                   <link rel="stylesheet"
                                     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                  <a :href="$t('trust.block6.link.facebook')" class="fa fa-facebook fa-footer" target="_blank"></a> 
-                                  <a :href="$t('trust.block6.link.twitter')" class="fa fa-twitter fa-footer" target="_blank"></a> 
-                                  <a :href="$t('trust.block6.link.medium')" class="fa fa-medium fa-footer" target="_blank"></a></div>
+                                  <a :href="$t('currency.block6.link.facebook')" class="fa fa-facebook fa-footer" target="_blank"></a> 
+                                  <a :href="$t('currency.block6.link.twitter')" class="fa fa-twitter fa-footer" target="_blank"></a> 
+                                  <a :href="$t('currency.block6.link.medium')" class="fa fa-medium fa-footer" target="_blank"></a></div>
                               </div>
                               <div style="height: 30px"></div>
                             </div>
@@ -413,7 +418,7 @@
                         <div class="wpb_column vc_column_container col-lg-6">
                           <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
-                              <div><p>{{ $t('trust.block6.form.info') }}</p></div>
+                              <div><p>{{ $t('currency.block6.form.info') }}</p></div>
                               <div style="height: 10px;"></div>
                               <b-form @submit="onSubmit">
                                 <b-form-group id="input-group-2">
@@ -421,7 +426,7 @@
                                     id="your-name"
                                     v-model="form.name"
                                     required
-                                    :placeholder="$t('trust.block6.form.name')"
+                                    :placeholder="$t('currency.block6.form.name')"
                                   ></b-form-input>
                                 </b-form-group>
 
@@ -430,7 +435,7 @@
                                     id="your-phone"
                                     v-model="form.phone"
                                     required
-                                    :placeholder="$t('trust.block6.form.phone')"
+                                    :placeholder="$t('currency.block6.form.phone')"
                                   ></b-form-input>
                                 </b-form-group>
 
@@ -438,7 +443,7 @@
                                   <b-form-input
                                     id="your-email"
                                     v-model="form.email"
-                                    :placeholder="$t('trust.block6.form.email')"
+                                    :placeholder="$t('currency.block6.form.email')"
                                   ></b-form-input>
                                 </b-form-group>
 
@@ -448,11 +453,11 @@
                                     v-model="form.message"
                                     pressed.sync="true"
                                     required
-                                    :placeholder="$t('trust.block6.form.message')"
+                                    :placeholder="$t('currency.block6.form.message')"
                                   ></b-form-textarea>
                                 </b-form-group>
 
-                                <b-button pill type="submit" variant="primary" id="submit">{{ $t('trust.block6.form.button') }}</b-button>
+                                <b-button pill type="submit" variant="primary" id="submit">{{ $t('currency.block6.form.button') }}</b-button>
                               </b-form>
                             </div>
                           </div>
@@ -481,7 +486,7 @@
 </template>
 <script>
   export default {
-    name: 'Trust',
+    name: 'currency',
     data() {
       return {
         form: {
