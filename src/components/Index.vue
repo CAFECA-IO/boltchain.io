@@ -774,7 +774,7 @@
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
                               <p><span
-                                  style="color: #fff; font-size: 14px; letter-spacing: 1px;">{{ $t('main.team.member1.description') }}</span>
+                                  style="color: #fff; font-size: 14px;text-align: center; letter-spacing: 1px;">{{ $t('main.team.member1.description') }}</span>
                               </p>
                             </div>
                           </div>
@@ -819,7 +819,7 @@
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
                               <p><span
-                                  style="color: #fff; font-size: 14px;">{{ $t('main.team.member2.description') }}</span>
+                                  style="color: #fff; font-size: 14px;text-align: center;">{{ $t('main.team.member2.description') }}</span>
                               </p>
                             </div>
                           </div>
@@ -864,7 +864,7 @@
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
                               <p><span
-                                  style="color: #fff; font-size: 14px;">{{ $t('main.team.member3.description') }}</span>
+                                  style="color: #fff; font-size: 14px;text-align: center;">{{ $t('main.team.member3.description') }}</span>
                               </p>
                             </div>
                           </div>
@@ -909,7 +909,7 @@
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
                               <p><span
-                                  style="color: #fff; font-size: 14px;">{{ $t('main.team.member4.description') }}</span>
+                                  style="color: #fff; font-size: 14px;text-align: center;">{{ $t('main.team.member4.description') }}</span>
                               </p>
                             </div>
                           </div>
@@ -956,7 +956,7 @@
                             data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                              <p><span style="color: #fff; font-size: 14px; letter-spacing: 1px;">{{ $t('main.team.member5.description') }}</span></p>
+                              <p><span style="color: #fff; font-size: 14px; text-align: center;letter-spacing: 1px;">{{ $t('main.team.member5.description') }}</span></p>
                             </div>
                           </div>
                           <div class="ult-spacer spacer-5df9defae47a0" data-id="5df9defae47a0" data-height="40"
@@ -1001,7 +1001,7 @@
                             data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                           <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                              <p><span style="color: #fff; font-size: 14px;">{{ $t('main.team.member6.description') }}</span></p>
+                              <p><span style="color: #fff; font-size: 14px;text-align: center;">{{ $t('main.team.member6.description') }}</span></p>
                             </div>
                           </div>
                           <div style="height: 40px;"></div>

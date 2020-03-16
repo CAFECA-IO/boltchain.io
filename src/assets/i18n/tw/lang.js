@@ -31,7 +31,7 @@ export default {
       title2: '高擴容性',
       description2: '透過索引莫克樹技術實現百萬等級頻寬，解決公有鏈速度過慢的問題，是世界最佳公有鏈擴容方案。',
       title3: '高兼容性',
-      description3: 'Boltchain 是可與任何支援智能合約的區塊鏈互動的安全協定，連接以太坊、Bitcoin 毫無問題！',
+      description3: 'Boltchain 是可與任何支援智能合約的區塊鏈互動的安全協定，連接以太坊、比特幣毫無問題！',
       title4: '高實用性',
       description4: 'Boltchain 是代理人模式的安全協定，可在不破壞企業既有管轄架構前提下，提供全球共識等級的信任。',
       title5: '零手續費',
@@ -117,13 +117,13 @@ export default {
         image: '/img/2019/08/wayne.png',
         name: '李廷威 Wayne',
         title: '後端工程師',
-        description: '擁有三年後端開發經驗，曾任職台灣知名輸入法公司，以 C#、C++ 開發自然輸入法。現負責Boltchain 平台服務所需 API 開發。'
+        description: '擁有三年後端開發經驗，曾任職台灣知名輸入法公司，以 C#、C++ 開發自然輸入法。現負責 Boltchain 平台服務所需 API 開發。'
       },
       member5: {
         image: '/img/2019/08/kais.png',
         name: '林延諭 Kais',
         title: '後端工程師',
-        description: '負責系統後端開發與部署，學生時期即開始關注各開源社群的後端開發者，多次舉辦Javascript 社群聚會，曾任 SITCON 年會講師。'
+        description: '負責系統後端開發與部署，學生時期即開始關注各開源社群的後端開發者，多次舉辦 Javascript 社群聚會，曾任 SITCON 年會講師。'
       },
       member6: {
         image: '/img/2019/08/paul.png',
