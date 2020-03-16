@@ -1,7 +1,7 @@
 <template>
   <div class="ls-slide-effects">
     <div class="fullwidth-container"
-      style="height: 1042px; background: url(/img/homepage/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto;">
+      style="height: 820px; background: url(/img/homepage/shutterstock_697695823-1.jpg) no-repeat; background-size: 100% auto;">
       <div class="container center" style="padding:10px 15px;">
         <div class="pageTitle" style="text-align:center;">
           <img :src="$t('main.logo')" class="slide1-logo" alt="Boltchain_logo_white" />
@@ -9,10 +9,10 @@
             style="color: #ffffff; font-size: 52px; font-family: 'Roboto', 'Arial', 'sans-serif', sans-serif;font-weight: 500;margin-top: 20px;">
             {{ $t('main.title') }}</h1>
           <h1 class="subtitle"
-            style="color: #ffffff; font-size: 26.7px; font-family: 'Roboto', 'Arial', 'sans-serif', sans-serif;font-weight: 500;margin-top: 20px;">
+            style="color: #e4e4e4; font-size: 32px; font-family: 'Roboto', 'Arial', 'sans-serif', sans-serif;font-weight: 500;margin-top: 20px;">
             {{ $t('main.description') }}</h1>
           <img src="/img/2018/06/Scroll-Down-icon-Home3.gif" class="ls-layer" alt=""
-            style="text-align: center;top: 845.344px; left: 928.688px; text-align: initial; font-weight: 400; font-style: normal; text-decoration: none; opacity: 1; width: 50.6016px; height: 50.6016px; margin-top: 218px; z-index: auto; padding: 0px; border-width: 0px; border-radius: 0px;"
+            style="text-align: center;top: 845.344px; left: 928.688px; text-align: initial; font-weight: 400; font-style: normal; text-decoration: none; opacity: 1; width: 50.6016px; height: 50.6016px; margin-top: 80px; z-index: auto; padding: 0px; border-width: 0px; border-radius: 0px;"
             data-ls="delayin:1000;easingin:easeInExpo;transitionout:false;" data-ls-slidein="1" data-ls-slideout="1" @click="scrollToOneAnchor('about')">
         </div>
       </div>
@@ -23,7 +23,7 @@
           <div class="wpb_column vc_column_container vc_col-sm-12">
             <div class="vc_column-inner ">
               <div class="wpb_wrapper">
-                <div style="height: 120px;"></div>
+                <div style="height: 100px;"></div>
                 <div id="ultimate-heading-36475df992b78ad75"
                   class="uvc-heading ult-adjust-bottom-margin ultimate-heading-36475df992b78ad75 uvc-8158 "
                   data-hspacer="no_spacer" data-halign="center" style="text-align:center">
@@ -44,16 +44,17 @@
                   data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                 <div class="wpb_text_column wpb_content_element ">
                   <div class="wpb_wrapper">
-                    <p style="text-align: center; color: #333333; font-size: 18px;" v-html="$t('main.about.description')"></p>
+                    <p style="text-align: center; color: #333333; font-size: 24px;" v-html="$t('main.about.description')"></p>
                   </div>
                 </div>
-                <div style="height: 120px;"></div>
+                <div style="height: 100px;"></div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <!-- 為何選擇 Boltchain -->
     <div id="why" ref="why" name="why" class="page_content section_page-12" :data-section-title="$t('main.hwy.title')">
       <div class="container-fluid">
         <div class="vc_row wpb_row vc_row-fluid ult-vc-hide-row vc_row-has-fill" data-rtl="false"
@@ -73,7 +74,7 @@
                     class="uvc-heading ult-adjust-bottom-margin ultimate-heading-86985df992b78b3ab uvc-8193  animated infinite No Animation"
                     data-hspacer="no_spacer" data-halign="center"
                     style="opacity:1;-webkit-animation-delay:0s;-webkit-animation-duration:s;-webkit-animation-iteration-count:infinite; -moz-animation-delay:0s;-moz-animation-duration:s;-moz-animation-iteration-count:infinite; animation-delay:0s;animation-duration:s;animation-iteration-count:infinite;text-align:center">
-                    <div style="height: 120px;"></div>
+                    <div style="height: 100px;"></div>
                     <h1 style="font-weight:normal;color:#066eb7;">{{ $t('main.why.title') }}</h1>
                     <div class="uvc-sub-heading ult-responsive"
                       data-ultimate-target=".uvc-heading.ultimate-heading-86985df992b78b3ab .uvc-sub-heading "
@@ -83,7 +84,8 @@
                       <p></p>
                     </div>
                   </div>
-                  <div style="height: 80px"></div>
+<!--  三大好處描述-->
+                  <div style="height: 0px; margin-top: -40px;"></div>
                   <div class="container">
                     <div class="row"
                       style="opacity:1;-webkit-animation-delay:0s;-webkit-animation-duration:s;-webkit-animation-iteration-count:infinite; -moz-animation-delay:0s;-moz-animation-duration:s;-moz-animation-iteration-count:infinite; animation-delay:0s;animation-duration:s;animation-iteration-count:infinite;test">
@@ -102,6 +104,7 @@
                                     </div>
                                   </div>
                                 </div>
+                                <!-- 好處1 高速支付 -->
                                 <div class="aio-icon-header">
                                   <h3 class="aio-icon-title ult-responsive"
                                     data-ultimate-target="#Info-box-wrap-1792 .aio-icon-title"
@@ -132,16 +135,17 @@
                                     </div>
                                   </div>
                                 </div>
+                                <!-- 好處2 高兼容性 -->
                                 <div class="aio-icon-header">
                                   <h3 class="aio-icon-title ult-responsive"
                                     data-ultimate-target="#Info-box-wrap-5795 .aio-icon-title"
                                     data-responsive-json-new="{font-size:mobile_landscape:18px;mobile:18px;,line-height:}"
-                                    style="">{{ $t('main.why.title2') }}</h3>
+                                    style="">{{ $t('main.why.title3') }}</h3>
                                 </div>
                                 <div class="aio-icon-description ult-responsive"
                                   data-ultimate-target="#Info-box-wrap-5795 .aio-icon-description"
                                   data-responsive-json-new="{font-size:mobile_landscape:14px;mobile:14px;,line-height:mobile_landscape:24px;mobile:24px;}"
-                                  style="color:#565656;">{{ $t('main.why.description2') }}</div>
+                                  style="color:#565656;">{{ $t('main.why.description3') }}</div>
                               </div>
                             </div>
                           </div>
@@ -162,16 +166,17 @@
                                     </div>
                                   </div>
                                 </div>
+                                <!-- 好處3 高實用性 -->
                                 <div class="aio-icon-header">
                                   <h3 class="aio-icon-title ult-responsive"
                                     data-ultimate-target="#Info-box-wrap-4344 .aio-icon-title"
                                     data-responsive-json-new="{font-size:mobile_landscape:18px;mobile:18px;,line-height:}"
-                                    style="">{{ $t('main.why.title3') }}</h3>
+                                    style="">{{ $t('main.why.title4') }}</h3>
                                 </div>
                                 <div class="aio-icon-description ult-responsive"
                                   data-ultimate-target="#Info-box-wrap-4344 .aio-icon-description"
                                   data-responsive-json-new="{font-size:mobile_landscape:14px;mobile:14px;,line-height:mobile_landscape:24px;mobile:24px;}"
-                                  style="color:#565656;">{{ $t('main.why.description3') }}</div>
+                                  style="color:#565656;">{{ $t('main.why.description4') }}</div>
                               </div>
                             </div>
                           </div>
@@ -179,7 +184,8 @@
                       </div>
                     </div>
                   </div>
-                  <div class="container">
+                  <div style="height: 100px"></div>
+                <!--   <div class="container">
                     <div class="row"
                       style="opacity:1;-webkit-animation-delay:0s;-webkit-animation-duration:s;-webkit-animation-iteration-count:infinite; -moz-animation-delay:0s;-moz-animation-duration:s;-moz-animation-iteration-count:infinite; animation-delay:0s;animation-duration:s;animation-iteration-count:infinite;test">
                       <div class="col-lg-4">
@@ -275,7 +281,7 @@
                     </div>
                     <div style="height: 120px">
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>

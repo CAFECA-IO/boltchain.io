@@ -1,8 +1,8 @@
 export default {
   nav: {
     about: '關於閃電鏈',
-    aboutLink1: '什麼是 Boltchain',
-    aboutLink2: '為什麼選擇 Boltchain',
+    aboutLink1: '什麼是閃電鏈',
+    aboutLink2: '為何用閃電鏈',
     aboutLink3: '應用案例',
     aboutLink4: '產品路線圖',
     aboutLink5: '最新消息',
@@ -20,20 +20,20 @@ export default {
     title: '實現資產上鏈移轉的混合型公鏈技術',
     description: '以區塊鏈提升企業信任價值',
     about: {
-      title: '什麼是 Boltchain？',
-      description: `Boltchain
-      是以和主流公鏈並行的跨鏈模式，所建立的可以受信任且無速度限制的區塊鏈運作架構。<br> 目前已深度整合自身與比特幣、以太坊，實現區塊鏈跨界、跨領域的極速應用體驗。`
+      title: '什麼是閃電鏈',
+      description: `閃電鏈-Boltchain
+      是以和<strong>主流公鏈</strong>並行的<strong>跨鏈模式</strong>，所建立的可以受信任且無速度限制的區塊鏈運作架構。 目前已深度整合自身與<strong>比特幣</strong>、<strong>以太坊</strong>，實現區塊鏈跨界、跨領域的極速應用體驗。`
     },
     why: {
-      title: '為什麼要選擇 Boltchain？',
-      title1: '即時支付',
+      title: '為何用閃電鏈',
+      title1: '高速支付',
       description1: '交易皆在鏈下進行高速運算，交易內容受到密碼學及智能合約保護，安全交易僅在毫秒之間。',
       title2: '高擴容性',
       description2: '透過索引莫克樹技術實現百萬等級頻寬，解決公有鏈速度過慢的問題，是世界最佳公有鏈擴容方案。',
       title3: '高兼容性',
       description3: 'Boltchain 是可與任何支援智能合約的區塊鏈互動的安全協定，連接以太坊、Bitcoin 毫無問題！',
       title4: '高實用性',
-      description4: 'Boltchain 是一個代理人模式的安全協定，完全適應中間人充斥的現實社會。 在不損失企業既有利益及特權的前提下提供全球共識等級的信任給用戶。',
+      description4: 'Boltchain 是代理人模式的安全協定，可在不破壞企業既有管轄架構前提下，提供全球共識等級的信任。',
       title5: '零手續費',
       description5: 'Boltchain 金流加速器，透過智能合約及密碼學科學配合運作，讓使用者能享受高速無手續費的交易體驗。',
       title6: '高隱私性',

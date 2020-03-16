@@ -2,12 +2,12 @@ export default {
   nav: {
     about: 'About Boltchain',
     aboutLink1: 'What is Boltchain',
-    aboutLink2: 'Why Choose Boltchain ?',
-    aboutLink3: 'Use Cases',
+    aboutLink2: 'Why use Boltchain',
+    aboutLink3: 'Use cases',
     aboutLink4: 'Road Map',
     aboutLink5: 'News',
     aboutLink6: 'Team',
-    aboutLink7: 'Contact Us',
+    aboutLink7: 'Contact us',
     solution: 'Solution',
     product: 'Product',
     trust: 'Product Certification',
@@ -20,53 +20,53 @@ export default {
     title: 'Hybrid-chain technology for rapid asset transfer',
     description: 'Bringing trust value to enterprises with blockchain',
     about: {
-      title: 'What is Boltchain？',
-      description: `Boltchain is a hybrid blockchain architecture that can be trusted and no speed limit.<br> At present, it has deeply integrated itself with Bitcoin and Ethereum<br> to achieve a fast application experience of cross-chain systems.`
+      title: 'What Is Boltchain',
+      description: `Boltchain is a <strong>hybrid blockchain architecture</strong> that can be trusted and no speed limit. At present, it has deeply integrated itself with <strong>Bitcoin</strong> and <strong>Ethereum</strong> to achieve a fast application experience of cross-chain systems.`
     },
     why: {
-      title: '為什麼要選擇 Boltchain？',
-      title1: '即時支付',
-      description1: '交易皆在鏈下進行高速運算，交易內容受到密碼學及智能合約保護，安全交易僅在毫秒之間。',
+      title: 'Why Use Boltchain',
+      title1: 'Instant payment',
+      description1: 'Transactions are performed at high speed off-chain, transaction content is protected by cryptography and smart contracts.',
       title2: '高擴容性',
       description2: '透過索引莫克樹技術實現百萬等級頻寬，解決公有鏈速度過慢的問題，是世界最佳公有鏈擴容方案。',
-      title3: '高兼容性',
-      description3: 'Boltchain 是可與任何支援智能合約的區塊鏈互動的安全協定，連接以太坊、Bitcoin 毫無問題！',
-      title4: '高實用性',
-      description4: 'Boltchain 是一個代理人模式的安全協定，完全適應中間人充斥的現實社會。 在不損失企業既有利益及特權的前提下提供全球共識等級的信任給用戶。',
+      title3: 'High compatibility',
+      description3: 'Boltchain is a security protocol that can interact with any blockchain that supports smart contracts.',
+      title4: 'High practicality',
+      description4: 'Boltchain can provide a global consensus level of trust without destroying the centralized structure of your systems.',
       title5: '零手續費',
       description5: 'Boltchain 金流加速器，透過智能合約及密碼學科學配合運作，讓使用者能享受高速無手續費的交易體驗。',
       title6: '高隱私性',
       description6: '交易完成時產生IMT切片給交易產生者(用戶)。僅用戶本人能透過切片檢閱交易內容，隱私有保障。'
     },
     case: {
-      title: '應用案例',
-      title1: '商品認證追溯方案',
-      description1: `您的大量商品和交易數據，可以高速、低成本上到多條公鏈上存證，透過商品溯源工具進行追蹤。
+      title: 'Use Cases',
+      title1: 'Product with Traceability',
+      description1: `The products which recorded on the blockchain will have a certificate page to ensure that the information is protected. The deep traceability service can also provide consumers with detailed production and sales history information.。
       <br><br>
-      在商品生產與銷售過程中，透過授權密鑰來控制寫入者身份，能減少供應鏈欺瞞現象並確保品牌商可有效地追蹤商品流向。
-      <br><br>
-      我們並設計了商品存證證書、區塊鏈瀏覽器，透過友好的用戶介面幫助您的客戶了解產品履歷、確認真偽，最終提升您的企業信任度。`,
-      linkTitle: '詳細介紹',
+      In the process of product production and sales, the author key was used to control the identity of the writer, which could reduce supply chain deception and ensure that brand owners can effectively track the flow of products.
+      <br><br>`,
+      linkTitle: 'For detail',
       image1: '/img/2019/07/bolttrust_3.png',
-      title2: '交易資料上鏈 - TATM',
-      description2: `TATM為香港聯交所上市公司 - 環球通證推出的數字貨幣販賣機，為了確保交易記錄安全、不由單一實體篡改，採用 Boltchain 的資料信任服務(Bolt Trust)，透過 Boltchain 跨鏈協議將每一筆交易紀錄同時寫入以太坊和比特網，讓證據獲得全球共識保障，並能滿足事後稽核需求。`,
+      title2: 'Data on Chain - TATM',
+      description2: `TATM is a digital currency vending machine launched by Global Token Limited. In order to ensure the security of the transaction records and not be falsified by a single entity, Boltchain's data on chain service (Bolt Trust) was used to record each transaction through its cross-chain channel agreement.
+      Through the Boltchain's hybrid-chain evidence, each piece of evidence is simultaneously written into Ethereum and Bitcoin, so that the transaction record is guaranteed by global consensus and can meet the post-audit needs.`,
       image2: '/img/2019/05/tatm.png',
-      title3: '數字貨幣支付 - PingPay',
-      description3: `PingPay 為基於 BOLT 技術的微支付錢包，能展示 Boltchain「交易即時、零手續費、全球共識為信任基礎」三大特色。產品定位上，PingPay 作技術展示使用，亦作為提供客戶區塊鏈解決方案中的支付功能模塊，能依客戶需求進行客製化方案。`,
+      title3: 'Digital payment - PingPay',
+      description3: `PingPay is a micro-payment wallet based on Boltchain, which can show Boltchain's three characteristics of "real-time transactions, zero fees, and global consensus as the basis of trust".
+       In terms of product positioning, PingPay is a payment function module in providing customer blockchain solutions, which can be customized according to customer needs.`,
       image3: '/img/2019/03/pingpay_02-1.png',
-      linkTitle2: ' AppStore 下載 ',
-      linkTitle3: ' Google Play 下載 ',
-      title4: '代幣激勵行銷 - Rock Me',
-      description4: `RockMe 是一個以數字貨幣激勵用戶的廣告系統。<br>
-      對於廣告主而言，可即時發放小額且高頻率的數字貨幣（獎勵金），透過 Boltchain
-      技術可完成零手續費的微支付，使廣告符合經濟效益。而用戶可將獎勵金用於線上及線下商家換取商品及服務。`,
+      linkTitle2: ' AppStore Download ',
+      linkTitle3: ' Google Play Downalod ',
+      title4: 'Incentive Marketing - Rock Me',
+      description4: `RockMe is an advertising system that incentivizes users with digital currencies.<br>
+      For advertisers, small amounts and high-frequency digital currency can be distributed immediately as a reward for marketing activities. Users can use the rewards for online and offline merchants in exchange for goods and services.`,
       image4: '/img/2019/03/rockme_2-1.png',
-      title5: '金融商品發幣 - 基金平台',
-      description5: `此項目為一AI 理財及基金投資平台，使用 Boltchain 的貨幣發行功能(Bolt Currency)將各種基金通證化。Bolt Currency 能便利地透過 Boltchain 金融加速器實現瞬時支付，同時以區塊鏈紀錄客戶基金交易過程，幫助金融商品平台與客戶建立信任，也能配合法規監管需求。`,
+      title5: 'Tokenization - Fund trading platform',
+      description5: `The AI wealth management and fund investment platform uses Boltchain's Currency function to do funds tokenization. Bolt Currency can easily perform instantaneous payment through the boost of Ledger technology, and record all the client transaction process in the blockchain, help fintech platform to build trust with customers, and also meet regulatory regulatory requirements.`,
       image5: '/img/2019/05/bolt_02-2.png',
     },
     news: {
-      title: '最新消息',
+      title: 'News',
       post1: {
         title: 'What is "Boltchain 閃電鏈"？',
         time: '20 DEC 2019',
@@ -93,48 +93,48 @@ export default {
       }
     },
     team: {
-      title: '團隊介紹',
+      title: 'Our Team',
       member1: {
         image: '/img/2019/08/luphia.png',
-        name: '張智崴 Luphia',
-        title: '首席系統架構師',
-        description: '畢業於成功大學，擁有超過十年分散式運算系統研發經驗。曾負責規劃阿曼教育部高等教育系統、中國軟體園區雲計算系統、台灣工業基礎計畫等大型軟體運算平台架構。'
+        name: 'Luphia Chang',
+        title: 'Chief System Architect',
+        description: 'Over 10 years of experience in distributed computing systems. He has been planned for large-scale software computing platform architecture for the higher education system of Oman, the cloud computing system of the China Software Park, and the Taiwan Industrial Foundation Project.'
       },
       member2: {
         image: '/img/2019/08/felix.png',
-        name: '湯翔帆 Felix',
-        title: '資深產品經理',
-        description: '畢業於清華大學工業工程與工程管理學系，擅長市場需求分析與企業服務設計。有八年產品管理經驗，曾分別於全球百大企業、互聯網新創公司負責產品規劃與專案管理。'
+        name: 'Felix Tang',
+        title: 'Sr. Product Manager',
+        description: 'Bachelor of Engineering Management from Taiwan Tsing-hua University. Specializing in market analysis and enterprise service design. With 8 years of product management experience, has been responsible for product planning and project management in the world’s top 100 companies and Internet startups.'
       },
       member3: {
         image: '/img/2019/08/kurt.png',
-        name: '潘家和 Kurt',
-        title: '資深介面設計師',
-        description: '曾任職於全球最大廣告傳播集團 WPP 旗下廣告公司，擁有十年以上設計經驗。參與過多項大型設計案，目前負責主導 Boltchain 風格設計與 UI 整體規劃。'
+        name: 'Kurt Pan',
+        title: 'Sr. UI Designer',
+        description: `He has worked for the world's largest advertising communication group WPP, and has more than 10 years of design experience. He has participated in many large-scale design cases and is currently responsible for leading Boltchain UI/UX design.`
       },
       member4: {
         image: '/img/2019/08/wayne.png',
-        name: '李廷威 Wayne',
-        title: '後端工程師',
-        description: '擁有三年後端開發經驗，曾任職台灣知名輸入法公司，以 C#、C++ 開發自然輸入法。現負責Boltchain 平台服務所需 API 開發。'
+        name: 'Wayne Li',
+        title: 'Back-end Engineer',
+        description: 'With 3 years of back-end development experience, he has worked for a well-known input method company in Taiwan, developing natural input methods with C # and C ++. Currently responsible for API development of Boltchain platform services.'
       },
       member5: {
         image: '/img/2019/08/kais.png',
-        name: '林延諭 Kais',
-        title: '後端工程師',
-        description: '負責系統後端開發與部署，學生時期即開始關注各開源社群的後端開發者，多次舉辦Javascript 社群聚會，曾任 SITCON 年會講師。'
+        name: 'Kais Lin',
+        title: 'Back-end Engineer',
+        description: 'Responsible for the back-end development and deployment of the system. He paid attention to the back-end developers of various open source communities, and has held Javascript community gatherings for many times.'
       },
       member6: {
         image: '/img/2019/08/paul.png',
-        name: '黃晟恩 Paul',
-        title: '前端工程師',
-        description: '擁有三年前端開發經驗，擅長實作 Javascript Web 介面，並參與實作多支 DApp，主要負責 Boltchain 產品服務之前端介面開發。'
+        name: 'Paul Huang',
+        title: 'Front-end Engineer',
+        description: 'With 3 years of front-end development experience, he is good at implementing the Javascript web interface and is involved in implementing multiple DApps. He is mainly responsible for the interface development of Boltchain services.'
       }
     },
     contact: {
-      title: '企業諮詢',
-      contactTitle: '聯絡資訊',
-      address: '台北市 松山區 民生東路三段 156號9樓',
+      title: 'Contact Us',
+      contactTitle: 'Contact info',
+      address: '9F., No. 156, Sec. 3, Minsheng E. Rd., Songshan Dist., Taipei City 105, Taiwan',
       phone: '+886 2-2700-1979',
       email: 'service@boltchain.io',
       link: {
@@ -143,12 +143,12 @@ export default {
         medium: '/'
       },
       form: {
-        info: '若您希望與我們進一步接觸，請聯繫我們！',
-        name: '稱呼*',
-        phone: '聯絡電話*',
+        info: 'If you wish to contact us further, please leave your information',
+        name: 'Your title*',
+        phone: 'Phone number*',
         email: 'Email',
-        message: '訊息*',
-        button: '發送訊息',
+        message: 'Message*',
+        button: 'Send',
       }
     }
   },
@@ -207,6 +207,65 @@ export default {
         phone: 'Phone Number',
         email: 'Email*',
         message: 'Your Message*',
+        button: 'Send',
+      }
+    }
+  },
+  currency: {
+    title: 'Bolt Currency 數字貨幣發行',
+    block1: {
+      title: '發行數字貨幣 - 應用閃電鑄幣(Bolt Token)輕鬆實現代幣經濟',
+      image1: './../img/2020/boltcurrency/boltcurrency_logo.png',
+      image2: './../img/2020/boltcurrency/currency_flow_tc.png',
+    },
+    block2: {
+      title: 'Bolt Token 為你帶來靈活用途，打造代幣經濟更容易',
+      image1: './../img/2020/boltcurrency/boltcurrency_01.png',
+      subtitle1: '虛擬點數',
+      description1: '用 Bolt Token 實現點數經濟，點數之間可自由交換，透過區塊鏈錢包交易。',
+      image2: './../img/2020/boltcurrency/boltcurrency_02.png',
+      subtitle2: '資產活化',
+      description2: '將你的商品或資產代幣化，以智能合約管理，滿足眾籌或切割販售等不同商業需要。',
+      image3: './../img/2020/boltcurrency/boltcurrency_03.png',
+      subtitle3: '連結區塊鏈',
+      description3: '使用 Bolt Token 即包含發行、交易、支付都連結區塊鏈，輕鬆將你的應用與區塊鏈整合。',
+    },
+    block3: {
+      title: 'Bolt Currency 服務導入流程',
+      image: './../img/2019/08/boltchain_graphic_2-1.png',
+    },
+    block4: {
+      title: '貨幣發行合約',
+      image: './../img/2019/08/devices_mockups-free-1.png',
+    },
+    block5: {
+      title: '代幣發行管理步驟',
+      image: './../img/2020/boltcurrency/currency_step.png',
+      subtitle1: '透過 Boltchain 服務平台的 Currency 服務，只要 5 步驟：',
+      li1: '選擇新發行或增發',
+      li2: '指定你的代幣名稱、發行數量、圖片',
+      li3: '確認檢查',
+      li4: '支付發幣費用',
+      li5: '等待代幣生成',
+      subtitle2: '即可開始透過內建錢包管理你的閃電鑄幣 (Bolt Token)！',
+    },
+    block6: {
+      title: 'Contact Us',
+      contactTitle: 'Contact info',
+      address: '9F., No. 156, Sec. 3, Minsheng E. Rd., Songshan Dist., Taipei City 105, Taiwan',
+      phone: '+886 2-2700-1979',
+      email: 'service@boltchain.io',
+      link: {
+        facebook: '/',
+        twitter: '/',
+        medium: '/'
+      },
+      form: {
+        info: 'If you wish to contact us further, please leave your information',
+        name: 'Your title*',
+        phone: 'Phone number*',
+        email: 'Email',
+        message: 'Message*',
         button: 'Send',
       }
     }
