@@ -134,7 +134,7 @@ export default {
         image: '/img/2019/08/emily.png',
         name: 'Emily Liang',
         title: 'Front-end Engineer',
-        description: 'She was involved in the cloud service software, responsible for front-end interface design and development, and was familiar with user experience design. She was also responsible for performing user research and user interface testing.'
+        description: 'She was involved in the cloud software development, responsible for front-end interface development, and was familiar with user experience design. She was also responsible for performing user research and user interface testing.'
       }
     },
     contact: {

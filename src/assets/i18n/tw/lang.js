@@ -132,7 +132,7 @@ export default {
         description: '擁有三年前端開發經驗，擅長實作 Javascript Web 介面，並參與實作多支 DApp，主要負責 Boltchain 產品服務之前端介面開發。'
       },
       member7: {
-        image: '/img/2019/08/paul.png',
+        image: '/img/2019/08/emily.png',
         name: '梁紫涵 Emily',
         title: '前端工程師',
         description: '曾參與規劃及開發雲端服務軟體，負責前端介面設計與開發，同時熟悉使用者經驗設計，也負責執行使用者研究與使用者介面測試。'
