@@ -965,6 +965,7 @@
                         </div>
                       </div>
                     </div>
+                    <!-- 成員6 -->
                     <div class="col-lg-3">
                       <div class="vc_column-inner vc_custom_1566377887760">
                         <div class="wpb_wrapper">
@@ -1005,6 +1006,52 @@
                             </div>
                           </div>
                           <div style="height: 40px;"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- 成員7 -->
+                    <div class="col-lg-3">
+                      <div class="vc_column-inner vc_custom_1566377879884">
+                        <div class="wpb_wrapper">
+                          <div class="wpb_single_image wpb_content_element vc_align_center">
+                            <figure class="wpb_wrapper vc_figure">
+                              <div class="vc_single_image-wrapper   vc_box_border_grey text-center"><img width="242.5" height="242.5"
+                                  :src="$t('main.team.member7.image')"
+                                  class="vc_single_image-img attachment-full" alt=""></div>
+                            </figure>
+                          </div>
+                          <div class="ult-spacer spacer-5df9defae4662" data-id="5df9defae4662" data-height="20"
+                            data-height-mobile="20" data-height-tab="20" data-height-tab-portrait=""
+                            data-height-mobile-landscape="" style="clear:both;display:block;"></div>
+                          <div id="ultimate-heading-72535df9defae4682"
+                            class="uvc-heading ult-adjust-bottom-margin ultimate-heading-72535df9defae4682 uvc-907 "
+                            data-hspacer="no_spacer" data-halign="center" style="text-align:center">
+                            <div class="uvc-heading-spacer no_spacer" style="top"></div>
+                            <div class="team-header"
+                              data-ultimate-target=".uvc-heading.ultimate-heading-72535df9defae4682 h2"
+                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;&quot;}">
+                              <h2 style="font-weight:bold;color:#ffffff;">{{ $t('main.team.member7.name') }}</h2>
+                            </div>
+                          </div>
+                          <div class="ult-spacer spacer-5df9defae469c" data-id="5df9defae469c" data-height="5"
+                            data-height-mobile="5" data-height-tab="5" data-height-tab-portrait=""
+                            data-height-mobile-landscape="" style="clear:both;display:block;"></div>
+                          <div class="wpb_text_column wpb_content_element ">
+                            <div class="wpb_wrapper">
+                              <p class="p1" style="text-align: center; color: #fff; font-size: 13px;">{{ $t('main.team.member7.title') }}</p>
+                            </div>
+                          </div>
+                          <div class="ult-spacer spacer-5df9defae4735" data-id="5df9defae4735" data-height="20"
+                            data-height-mobile="20" data-height-tab="20" data-height-tab-portrait=""
+                            data-height-mobile-landscape="" style="clear:both;display:block;"></div>
+                          <div class="wpb_text_column wpb_content_element ">
+                            <div class="wpb_wrapper">
+                              <p><span style="color: #fff; font-size: 14px; text-align: center;letter-spacing: 1px;">{{ $t('main.team.member7.description') }}</span></p>
+                            </div>
+                          </div>
+                          <div class="ult-spacer spacer-5df9defae47a0" data-id="5df9defae47a0" data-height="40"
+                            data-height-mobile="40" data-height-tab="40" data-height-tab-portrait=""
+                            data-height-mobile-landscape="" style="clear:both;display:block;"></div>
                         </div>
                       </div>
                     </div>

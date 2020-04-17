@@ -129,6 +129,12 @@ export default {
         name: 'Paul Huang',
         title: 'Front-end Engineer',
         description: 'With 3 years of front-end development experience, he is good at implementing the Javascript web interface and is involved in implementing multiple DApps. He is mainly responsible for the interface development of Boltchain services.'
+      },
+      member7: {
+        image: '/img/2019/08/emily.png',
+        name: 'Emily Liang',
+        title: 'Front-end Engineer',
+        description: 'She was involved in the cloud service software, responsible for front-end interface design and development, and was familiar with user experience design. She was also responsible for performing user research and user interface testing.'
       }
     },
     contact: {
@@ -212,42 +218,42 @@ export default {
     }
   },
   currency: {
-    title: 'Bolt Currency 數字貨幣發行',
+    title: 'Bolt Currency - Token Issuance',
     block1: {
-      title: '發行數字貨幣 - 應用閃電鑄幣(Bolt Token)輕鬆實現代幣經濟',
+      title: 'Issuing digital currency - use Bolt Token to build your token economy',
       image1: './../img/2020/boltcurrency/boltcurrency_logo.png',
       image2: './../img/2020/boltcurrency/currency_flow_tc.png',
     },
     block2: {
-      title: 'Bolt Token 為你帶來靈活用途，打造代幣經濟更容易',
+      title: 'Bolt Token brings you wide and flexible uses',
       image1: './../img/2020/boltcurrency/boltcurrency_01.png',
-      subtitle1: '虛擬點數',
-      description1: '用 Bolt Token 實現點數經濟，點數之間可自由交換，透過區塊鏈錢包交易。',
+      subtitle1: 'Virtual Point',
+      description1: 'Use Bolt Token to build the points economy, points can be freely exchanged through the blockchain wallet.',
       image2: './../img/2020/boltcurrency/boltcurrency_02.png',
-      subtitle2: '資產活化',
-      description2: '將你的商品或資產代幣化，以智能合約管理，滿足眾籌或切割販售等不同商業需要。',
+      subtitle2: 'Activate Asset',
+      description2: 'Tokenize your commodities or assets and manage them with smart contracts to meet different business needs such as crowdfunding.',
       image3: './../img/2020/boltcurrency/boltcurrency_03.png',
-      subtitle3: '連結區塊鏈',
-      description3: '使用 Bolt Token 即包含發行、交易、支付都連結區塊鏈，輕鬆將你的應用與區塊鏈整合。',
+      subtitle3: 'Connect Blockchain',
+      description3: 'Use Bolt Token to connect to blockchains, so you can easily integrate your application with the blockchain.',
     },
     block3: {
-      title: 'Bolt Currency 服務導入流程',
+      title: 'Bolt Currency Import Process',
       image: './../img/2019/08/boltchain_graphic_2-1.png',
     },
     block4: {
-      title: '貨幣發行合約',
+      title: 'Issuance contract',
       image: './../img/2019/08/devices_mockups-free-1.png',
     },
     block5: {
-      title: '代幣發行管理步驟',
+      title: 'Steps for token issuance',
       image: './../img/2020/boltcurrency/currency_step.png',
-      subtitle1: '透過 Boltchain 服務平台的 Currency 服務，只要 5 步驟：',
-      li1: '選擇新發行或增發',
-      li2: '指定你的代幣名稱、發行數量、圖片',
-      li3: '確認檢查',
-      li4: '支付發幣費用',
-      li5: '等待代幣生成',
-      subtitle2: '即可開始透過內建錢包管理你的閃電鑄幣 (Bolt Token)！',
+      subtitle1: 'Only 5 steps using Boltchain BaaS:',
+      li1: 'Choose new issue or additional',
+      li2: 'Specify your token name, circulation, picture',
+      li3: 'Information confirm',
+      li4: 'Pay the issuance fee',
+      li5: 'Waiting for generation',
+      subtitle2: 'Then, start to manage your Bolt Token through the built-in wallet！',
     },
     block6: {
       title: 'Contact Us',
